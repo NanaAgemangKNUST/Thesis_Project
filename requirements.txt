@@ -1,0 +1,30 @@
+# Python Dependencies for Federated Malaria Surveillance
+# ========================================================
+
+# Core Scientific Computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Federated Learning
+flwr>=1.5.0
+
+# Data Processing
+scikit-learn>=1.0.0
+python-docx>=0.8.11
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Utilities
+tqdm>=4.62.0
+pathlib>=1.0.1
+
+# Optional (for advanced features)
+# tensorboard>=2.10.0
+# wandb>=0.13.0
